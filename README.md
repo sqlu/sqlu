@@ -22,6 +22,7 @@
 - **Domain**: Systems Programming & Network Architecture
 - **OS**: **NixOS** user
 - **Also**: Lead co-creator of **[QxChat](https://qxch.at/)** and the **[LQXP](https://github.com/lqxp)** protocol
+
 > *"Data is our compass, code is our fuel, and the stars are our ultimate destination."*
 
 <br>
@@ -32,38 +33,104 @@
   <tr>
     <td align="center" width="110">
       <a href="https://www.rust-lang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="48" height="48" alt="Rust" /></a>
+      <br><sub><b>Rust</b></sub>
     </td>
     <td align="center" width="110">
       <a href="https://bun.sh/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bun/bun-original.svg" width="48" height="48" alt="Bun" /></a>
+      <br><sub><b>Bun</b></sub>
     </td>
     <td align="center" width="110">
       <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" /></a>
+      <br><sub><b>TypeScript</b></sub>
     </td>
     <td align="center" width="110">
       <a href="https://go.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" width="48" height="48" alt="Go" /></a>
+      <br><sub><b>Go</b></sub>
     </td>
     <td align="center" width="110">
       <a href="https://nixos.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original.svg" width="48" height="48" alt="NixOS" /></a>
+      <br><sub><b>NixOS</b></sub>
     </td>
     <td align="center" width="110">
       <a href="https://tauri.app/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tauri/tauri-original.svg" width="48" height="48" alt="Tauri" /></a>
+      <br><sub><b>Tauri</b></sub>
     </td>
     <td align="center" width="110">
       <a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue.js" /></a>
+      <br><sub><b>Vue.js</b></sub>
     </td>
     <td align="center" width="110">
       <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" /></a>
+      <br><sub><b>Python</b></sub>
     </td>
   </tr>
 </table>
-<br>
 
 <br>
+
+### Languages
+
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" /><br><sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" /><br><sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="36" height="36" alt="Rust" /><br><sub><b>Rust</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" width="36" height="36" alt="Go" /><br><sub><b>Go</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python" /><br><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="36" height="36" alt="C" /><br><sub><b>C</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="C++" /><br><sub><b>C++</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="36" height="36" alt="C#" /><br><sub><b>C#</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="36" height="36" alt="Kotlin" /><br><sub><b>Kotlin</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="36" height="36" alt="Swift" /><br><sub><b>Swift</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" width="36" height="36" alt="Julia" /><br><sub><b>Julia</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="36" height="36" alt="Lua" /><br><sub><b>Lua</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" width="36" height="36" alt="Haskell" /><br><sub><b>Haskell</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="36" height="36" alt="PHP" /><br><sub><b>PHP</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bun/bun-original.svg" width="36" height="36" alt="Bun" /><br><sub><b>Bun</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original.svg" width="36" height="36" alt="NixOS" /><br><sub><b>NixOS</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <div align="center">
 
 **Toulouse · ISAE-SUPAERO · data, code, aerospace**
 
 [github.com/sqlu](https://github.com/sqlu) · [github.com/lqxp](https://github.com/lqxp) · [qxch.at](https://qxch.at/)
-</div>
 
 </div>
