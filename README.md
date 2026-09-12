@@ -1,16 +1,69 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sqlu/sqlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/sqlu">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=79C0FF&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Snayz!;Systems+%26+Backend+Engineer;Data+Scientist+%C2%B7+ISAE-SUPAERO"/>
+</a>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/sqlu"><img src="https://komarev.com/ghpvc/?username=sqlu&color=79C0FF&style=flat-square&label=Profile+Views"/></a>
+  <a href="https://qxch.at"><img src="https://img.shields.io/website?url=https%3A%2F%2Fqxch.at&style=flat-square&color=3FB950&label=qxch.at"/></a>
+  <a href="https://github.com/sqlu?tab=followers"><img src="https://img.shields.io/github/followers/sqlu?style=flat-square&logo=github&logoColor=white&color=238636" /></a>
+  <a href="https://github.com/lqxp"><img src="https://img.shields.io/badge/Org-LQXP-238636?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<br>
+
+### About Me
+
+- **Location**: Toulouse, France
+- **Education**: Student at **[ISAE-SUPAERO](https://www.isae-supaero.fr/)**
+- **Domain**: Systems Programming & Network Architecture
+- **OS**: **NixOS** user
+- **Also**: Lead co-creator of **[QxChat](https://qxch.at/)** and the **[LQXP](https://github.com/lqxp)** protocol
+> *"Data is our compass, code is our fuel, and the stars are our ultimate destination."*
+
+<br>
+
+### Tech Stack & Architecture
+
+<table align="center">
+  <tr>
+    <td align="center" width="110">
+      <a href="https://www.rust-lang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="48" height="48" alt="Rust" /></a>
+    </td>
+    <td align="center" width="110">
+      <a href="https://bun.sh/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bun/bun-original.svg" width="48" height="48" alt="Bun" /></a>
+    </td>
+    <td align="center" width="110">
+      <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" /></a>
+    </td>
+    <td align="center" width="110">
+      <a href="https://go.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" width="48" height="48" alt="Go" /></a>
+    </td>
+    <td align="center" width="110">
+      <a href="https://nixos.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original.svg" width="48" height="48" alt="NixOS" /></a>
+    </td>
+    <td align="center" width="110">
+      <a href="https://tauri.app/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tauri/tauri-original.svg" width="48" height="48" alt="Tauri" /></a>
+    </td>
+    <td align="center" width="110">
+      <a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue.js" /></a>
+    </td>
+    <td align="center" width="110">
+      <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" /></a>
+    </td>
+  </tr>
+</table>
+<br>
+
+<br>
+<div align="center">
+
+**Toulouse · ISAE-SUPAERO · data, code, aerospace**
+
+[github.com/sqlu](https://github.com/sqlu) · [github.com/lqxp](https://github.com/lqxp) · [qxch.at](https://qxch.at/)
+</div>
+
+</div>
