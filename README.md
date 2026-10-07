@@ -93,8 +93,8 @@
 
 <div align="center">
 
-**Toulouse · ISAE-SUPAERO · data, code, aerospace**
+**Toulouse, data, code, aerospace**
 
-[github.com/sqlu](https://github.com/sqlu) · [github.com/lqxp](https://github.com/lqxp) · [qxch.at](https://qxch.at/)
+[github.com/sqlu](https://github.com/sqlu) [github.com/lqxp](https://github.com/lqxp) [qxch.at](https://qxch.at/)
 
 </div>
