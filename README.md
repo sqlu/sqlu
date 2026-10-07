@@ -18,7 +18,6 @@
 ### About Me
 
 - **Location**: Toulouse, France
-- **Education**: Student at **[ISAE-SUPAERO](https://www.isae-supaero.fr/)**
 - **Domain**: Systems Programming & Network Architecture
 - **OS**: **NixOS** user
 - **Also**: Lead co-creator of **[QxChat](https://qxch.at/)** and the **[LQXP](https://github.com/lqxp)** protocol
